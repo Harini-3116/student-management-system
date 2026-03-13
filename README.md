@@ -1,2 +1,14 @@
-# student-management-system
-A simple Student Management System built using Java and Object-Oriented Programming concepts. The program allows users to add, remove, search, update, and display student records using an ArrayList.
+Student Management System in Java
+
+Features:
+- Add student
+- Remove student
+- Search student
+- Update marks
+- Display students
+
+Concepts Used:
+- OOP
+- ArrayList
+- Methods
+- Menu driven program
